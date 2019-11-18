@@ -1,3 +1,36 @@
 body{
     background-color: lightgrey;
+    text-align: center;
+}
+.details{
+
+    }
+    
+    h3{
+        color: blue;
+        background: coral;
+    }
+    .date{
+        color: burlywood;
+    }
+    
+article .details{
+
+    background-color: aqua;
+    border-radius: 10%;
+}
+.reservation a{
+    text-decoration: none;
+    color: crimson;
+}
+footer a {
+
+    text-decoration: none;
+    color: darkgoldenrod;
+  
+}
+footer{
+    background-color: darkgreen;
+  
+    
 }
